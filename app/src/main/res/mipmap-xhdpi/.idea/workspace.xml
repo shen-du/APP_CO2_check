@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fa05fe5-846f-4486-92c6-96b100ae1064" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/incremental/processDebugResources/resources-list-for-resources-debug.ap_.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/merged/debug/layout_take_food.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/merged/debug/mipmap-xhdpi_fish_flavored_shredded_pork.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/merged/debug/mipmap-xhdpi_fried_meat.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/merged/debug/mipmap-xhdpi_hot_peppers_fried_meat.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/merged/debug/mipmap-xhdpi_palace_burst_chicken.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/take_food/CO2_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_c_o2_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/take_food.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fish_flavored_shredded_pork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fried_meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot_peppers_Fried_meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palace_burst_chicken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zbdx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/dex/debug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/dex/debug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/BCzOxC9Dl6LHchJMptIgcrAtbic=" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/BCzOxC9Dl6LHchJMptIgcrAtbic=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$FragmentAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity$FragmentAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/javac/debug/classes/com/example/take_food/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$FragmentAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity$FragmentAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/intermediates/transforms/dexBuilder/debug/2/com/example/take_food/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/take_food/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/take_food/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="width" value="1580" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mipmap-xhdpi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mipmap-xhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="D:/compiler/Android/SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa05fe5-846f-4486-92c6-96b100ae1064" name="Default Changelist" comment="" />
+      <created>1589551520176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589551520176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32937294" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

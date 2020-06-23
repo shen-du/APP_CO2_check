@@ -1,0 +1,4 @@
+#Thu May 21 00:04:54 GMT+08:00 2020
+base.0=E\:\\working_project\\APP\\co2test\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
