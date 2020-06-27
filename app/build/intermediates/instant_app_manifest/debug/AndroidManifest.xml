@@ -24,7 +24,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.take_food.MainActivity" />
-        <activity android:name="com.example.take_food.CO2_test" >
+        <activity android:name="com.example.take_food.CO2_check" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
