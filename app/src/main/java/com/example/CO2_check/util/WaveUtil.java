@@ -1,8 +1,7 @@
-package com.example.take_food.util;
+package com.example.CO2_check.util;
 
-import com.example.take_food.view.WaveShowView;
+import com.example.CO2_check.view.WaveShowView;
 
-import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 

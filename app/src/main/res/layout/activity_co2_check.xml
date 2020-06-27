@@ -89,7 +89,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
-    <com.example.take_food.view.WaveShowView
+    <com.example.CO2_check.view.WaveShowView
         android:id="@+id/waveview"
         android:layout_width="419dp"
         android:layout_height="287dp"

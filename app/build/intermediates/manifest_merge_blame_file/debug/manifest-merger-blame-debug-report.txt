@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.take_food"
+3    package="com.example.CO2_check"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -38,10 +38,10 @@
 23        android:testOnly="true"
 24        android:theme="@style/AppTheme" >
 24-->E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:15:9-40
-25        <activity android:name="com.example.take_food.MainActivity" />
+25        <activity android:name="com.example.CO2_check.MainActivity" />
 25-->E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:16:9-59
 25-->E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:16:19-47
-26        <activity android:name="com.example.take_food.CO2_check" >
+26        <activity android:name="com.example.CO2_check.CO2_check" >
 26-->E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:17:9-23:20
 26-->E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:17:19-44
 27            <intent-filter>

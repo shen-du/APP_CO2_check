@@ -76,11 +76,11 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\compiler
 		ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.example.take_food.MainActivity
+activity#com.example.CO2_check.MainActivity
 ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:16:9-59
 	android:name
 		ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:16:19-47
-activity#com.example.take_food.CO2_check
+activity#com.example.CO2_check.CO2_check
 ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
 		ADDED from E:\APP\APP_CO2_check\app\src\main\AndroidManifest.xml:17:19-44

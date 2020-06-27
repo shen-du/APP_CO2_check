@@ -1,4 +1,4 @@
-package com.example.take_food;
+package com.example.CO2_check;
 
 
 import android.app.Activity;
@@ -14,8 +14,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.take_food.util.WaveUtil;
-import com.example.take_food.view.WaveShowView;
+import com.example.CO2_check.R;
+import com.example.CO2_check.util.WaveUtil;
+import com.example.CO2_check.view.WaveShowView;
 
 public class CO2_check extends Activity {
     /*接收发送定义的常量*/

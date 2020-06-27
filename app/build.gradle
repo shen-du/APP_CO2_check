@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.0"
     defaultConfig {
-        applicationId "com.example.take_food"
+        applicationId "com.example.CO2_check"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1

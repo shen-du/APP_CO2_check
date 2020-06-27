@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.take_food"
+    package="com.example.CO2_check"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -23,8 +23,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.take_food.MainActivity" />
-        <activity android:name="com.example.take_food.CO2_check" >
+        <activity android:name="com.example.CO2_check.MainActivity" />
+        <activity android:name="com.example.CO2_check.CO2_check" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

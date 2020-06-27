@@ -1,4 +1,4 @@
-package com.example.take_food;
+package com.example.CO2_check;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -15,6 +15,8 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Switch;
 import android.widget.TextView;
+
+import com.example.CO2_check.SendThread;
 
 import java.io.BufferedReader;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package com.example.take_food.view;
+package com.example.CO2_check.view;
 
 
 import android.content.Context;
